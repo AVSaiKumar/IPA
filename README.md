@@ -33,7 +33,7 @@
 - Tap to launch and use the app.
 
 **6. Further Information:**
-- For a visual guide on installing Scarlet and other .ipa files, please refer to https://youtu.be/aKPYaSI8d3Q?si=AlGyO9wJq6P1sXwS
+- For a visual guide on installing Scarlet and generic .ipa files, please refer to https://youtu.be/aKPYaSI8d3Q?si=AlGyO9wJq6P1sXwS
 
 **NOte:  At the beginning, the balance is set to '0'. To load balance from the bank, follow these steps: provide your public key, onIndex, present on Screen  (initially '0'), and the desired amount. Email these details to ms2204101012@iiti.ac.in. We will manually generate a signature for you. Afterwards, you can use this signature to load your balance.**
 
