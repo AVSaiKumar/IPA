@@ -32,10 +32,4 @@
 - Once installed, the "OfflineService1" app will appear on your iPhone's home screen.
 - Tap to launch and use the app.
 
-**Important Notes:**
-
-- **Security:** Installing apps outside the App Store involves potential risks. Only install apps from trusted sources.
-- **Updates:** Scarlet will not automatically update apps. Check for updates manually.
-- **Troubleshooting:** If you encounter issues, refer to Scarlet's documentation for troubleshooting steps.
-
 **For further assistance, please contact us at ms2204101012@iiti.ac.in .**
