@@ -38,4 +38,4 @@
 - **Updates:** Scarlet will not automatically update apps. Check for updates manually.
 - **Troubleshooting:** If you encounter issues, refer to Scarlet's documentation for troubleshooting steps.
 
-**For further assistance, please contact us at [your support email address].**
+**For further assistance, please contact us at ms2204101012@iiti.ac.in .**
