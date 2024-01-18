@@ -41,3 +41,6 @@
 **NOte:  At the beginning, the balance is set to '0'. To load balance from the bank, follow these steps: provide your public key, onIndex, present on Screen  (initially '0'), and the desired amount. Email these details to ms2204101012@iiti.ac.in. We will manually generate a signature for you and email back to you. Afterwards, you can use this signature to load your balance.**
 
 ** For any queries contact ms2204101012@iiti.ac.in **
+
+
+**For additional information about the code and project, please visit 'https://github.com/AVSaiKumar/SustPay1.git.' There, you will find both the build and code files for the project."**
